@@ -1,5 +1,5 @@
 # HELLO MNIST
-### [ Click here to view MNIST GUI with TKINTER ](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI)
+
 ## A Flutter Application For Handwritten Digit Classifier
 
 This is a deep learning project where we have classified hand written digits using simple ANN. <br><br>A flutter application is made where we can draw a digit, upload a image consisting of a digit and ANN model will display the predicted digit.
@@ -59,3 +59,5 @@ There are lot of things to improve upon
 - Train a model in such a way it will be able to have digit on different part of the image (corners etc.)
 - While drawing digits different brush sizes can be used.
 - Multiple digits can be recognized in a single image or canvas.
+
+### [ Click here to view MNIST GUI with TKINTER ](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI)
