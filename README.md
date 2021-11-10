@@ -23,29 +23,29 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 5
 
 ## First Look
 
-<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/2.png" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/2.png" width="300" height="500">
 <!-- ![](https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/2.png) -->
 
 ## Draw and Predict
 
-<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/3.png" width="350" height="500">
-<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/4.png" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/3.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/4.png" width="300" height="500">
 
 
 ## Predicting saved image
 
-<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/5.png" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/5.png" width="300" height="500">
 
 
 ## About Me
 
-<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/6.png" width="350" height="500">
-<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/7.png" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/6.png" width="300" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/7.png" width="300" height="500">
 
 
 ## App Launch Icon and Name
 
-<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/1.png" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/1.png" width="300" height="500">
 
 ## Further Improvements
 
