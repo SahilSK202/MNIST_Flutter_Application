@@ -21,6 +21,10 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 5
 
 # Demo
 
+## App Launch Icon and Name
+
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/1.png" width="300" height="500">
+
 ## First Look
 
 <img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/2.png" width="300" height="500">
@@ -43,9 +47,7 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 5
 <img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/7.png" width="300" height="500">
 
 
-## App Launch Icon and Name
 
-<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/1.png" width="300" height="500">
 
 ## Further Improvements
 
