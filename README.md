@@ -23,30 +23,29 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 5
 
 ## First Look
 
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/1.jpg" width="350" height="500">
-<!-- ![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/1.jpg) -->
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/2.png" width="350" height="500">
+<!-- ![](https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/2.png) -->
 
 ## Draw and Predict
 
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/2.jpg" width="350" height="500">
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/3.jpg" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/3.png" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/4.png" width="350" height="500">
 
-## Save Image
-
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/4.jpg" width="350" height="500">
-
-## Saved Image
-
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/5.jpg" width="350" height="350">
 
 ## Predicting saved image
 
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/6.jpg" width="350" height="500">
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/7.jpg" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/5.png" width="350" height="500">
 
-## paste link of Image and predict
 
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/8.jpg" width="350" height="500">
+## About Me
+
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/6.png" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/7.png" width="350" height="500">
+
+
+## App Launch Icon and Name
+
+<img src="https://github.com/SahilSK202/MNIST_Flutter_Application/blob/main/assets/images/1.png" width="350" height="500">
 
 ## Further Improvements
 
